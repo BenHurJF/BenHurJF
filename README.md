@@ -1,8 +1,9 @@
 ### Olá! Seja bem vindo 😃
 - Rede profissional
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ben-hur-jeffer-b6074a189/)
 
-![Ben Jeffer gitHub stats](https://github-readme-stats.vercel.app/api?username=BenHurJF_&show_icons=true&theme=onedark)
+![Ben Jeffer gitHub stats](https://github-readme-stats.vercel.app/api?username=BenHurJF&show_icons=true&theme=onedark)
 
 ### Tecnologias que uso no dia dia
 
