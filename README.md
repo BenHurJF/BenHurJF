@@ -5,7 +5,7 @@
 
 ![Ben Jeffer gitHub stats](https://github-readme-stats.vercel.app/api?username=BenHurJF&show_icons=true&theme=onedark)
 
-### Tecnologias que uso no dia dia
+- ### Tecnologias que uso no dia dia
 
 <div style="display: inline_block"><br/>
  <img aligh="center" alt="Cypress" src="https://img.shields.io/badge/Cypress-fff?style=for-the-badge&logo=Cypress&logoColor=grey">
