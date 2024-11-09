@@ -5,11 +5,12 @@
 
 ![Ben Jeffer gitHub stats](https://github-readme-stats.vercel.app/api?username=BenHurJF&show_icons=true&theme=onedark)
 
-- ### Tecnologias que uso no dia dia
+- ### Tecnologias e Linguagens
 
 <div style="display: inline_block"><br/>
  <img aligh="center" alt="Cypress" src="https://img.shields.io/badge/Cypress-fff?style=for-the-badge&logo=Cypress&logoColor=grey">
  <img aligh="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+ <img aligh="center" alt="JavaScript" src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java"> 
  <img aligh="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
  <img aligh="center" alt="Postman" src="https://img.shields.io/badge/Postman-fff?style=for-the-badge&logo=postman&logoColor=orange">
  <img aligh="center" alt="kubernetes" src="https://img.shields.io/badge/kubernetes-fff?style=for-the-badge&logo=kubernetes&logoColor=blue">
