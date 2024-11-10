@@ -9,8 +9,7 @@
  <img aligh="center" alt="Robot Framework" src="https://img.shields.io/badge/Robot%20Framework-000000.svg?style=for-the-badge&logo=Robot-Framework&logoColor=white">
  <img aligh="center" alt="Appium" src="https://img.shields.io/badge/Appium-EE376D.svg?style=for-the-badge&logo=Appium&logoColor=white">
  <img aligh="center" alt="Playwright" src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white">
- <img aligh="center" alt="Playwright" src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white">
- <img aligh="center" alt="Mocha" src="">
+ <img aligh="center" alt="Mocha" src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white">
  <img aligh="center" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
    
  <p></p>
