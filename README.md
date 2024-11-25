@@ -1,5 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenHurJF)](https://github.com/BenHurJF/github-readme-stats)
-
 # Linguagens e Frameworks de Testes
 
 <div style="display: inline_block"><br/>
@@ -10,12 +8,13 @@
  <img aligh="center" alt="Cypress" src="https://img.shields.io/badge/Cypress-fff?style=for-the-badge&logo=Cypress&logoColor=grey">
  <img aligh="center" alt="Robot Framework" src="https://img.shields.io/badge/Robot%20Framework-000000.svg?style=for-the-badge&logo=Robot-Framework&logoColor=white">
  <img aligh="center" alt="Appium" src="https://img.shields.io/badge/Appium-EE376D.svg?style=for-the-badge&logo=Appium&logoColor=white">
- <img aligh="center" alt="Playwright" src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white">
+ <img aligh="center" alt="Playwright" src="![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)">
+ <img aligh="center" alt="Selenium" src="![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)">
  <img aligh="center" alt="Mocha" src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white">
  <img aligh="center" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
    
  <p></p>
- <img aligh="center" alt="Postman" src="https://img.shields.io/badge/Postman-fff?style=for-the-badge&logo=postman&logoColor=orange">
+ <img aligh="center" alt="Postman" src="![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)">
  <img aligh="center" alt="Insomnia" src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white">
  <img aligh="center" alt="swagger" src="https://img.shields.io/badge/swagger-fff?style=for-the-badge&logo=swagger&logoColor=greem">
  
