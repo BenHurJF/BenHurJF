@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenHurJF)](https://github.com/BenHurJF/github-readme-stats)
+
 # Linguagens e Frameworks de Testes
 
 <div style="display: inline_block"><br/>
