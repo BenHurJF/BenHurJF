@@ -1,4 +1,5 @@
 ## I'm Ben Hur, an automated test developer and test analyst.
+  I have over 5 years of experience as a QA professional, and I have worked in various sectors: banking, education, e-commerce, retail, and traffic tags.
 
 ## frameworks and languages ​​that I use
 
