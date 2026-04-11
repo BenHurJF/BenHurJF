@@ -112,4 +112,4 @@
 
 ### 📊 Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=BenHurJF&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=BenHurJF&theme=dark)](https://git.io/streak-stats)
