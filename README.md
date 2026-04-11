@@ -112,5 +112,4 @@
 
 ### 📊 Estatísticas
 
-
-[![Benn GitHub stats](https://github-readme-stats.vercel.app/api?username=BenHurJF)](https://github.com/BenHurJF?tab=repositories)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=BenHurJF&show_icons=true&theme=radical)
