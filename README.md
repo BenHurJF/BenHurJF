@@ -6,7 +6,7 @@
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Hard skills
 
 <img 
     align="left" 
