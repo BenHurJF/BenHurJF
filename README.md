@@ -1,6 +1,6 @@
   👋 My name is Ben-Hur, I'm 27 years old and I'm from Brasília.<br/>
   
-  🧠 I'm focused on generating tests with AI.
+  🧠 I'm focused on generating tests with AI / Outside of work I'm building apps.
   
   💼 Currently: **'QA and Test Automation Analyst'**.
 
